@@ -1,7 +1,8 @@
 # tic-tac-toe
 
-This is an interactive tic-tac-toe game with React. The instructions below are for setting up on local machine.
+This is an interactive tic-tac-toe game with React. The instructions below are for setting up game on local machine.
 To make online domo available, I load React library online in "index.html" and comment "import React" code in "index.js".
+To try the demo, please visti this link https://gushiwen.github.io/tic-tac-toe/
 
 
 ### Make sure you have a recent version of Node.js installed.
